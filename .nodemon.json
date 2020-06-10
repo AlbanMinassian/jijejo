@@ -1,0 +1,12 @@
+{
+    "verbose": false,
+    "ext": "mjs,js,json",
+    "ignore": [
+    ],
+    "watch": [
+        "rollup.config.js",
+        "../jijejo-node/build/**/*.mjs",
+        "src/index.js",
+        "package.json"
+    ]
+}
