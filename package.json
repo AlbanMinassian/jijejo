@@ -8,7 +8,7 @@
     "description": "jijejo utils for browser (iief, esm) and node (cjs, esm)",
     "license": "MIT",
     "private": false,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "module",
     "main": "./esm/index.js",
     "module": "./esm/entry.js",

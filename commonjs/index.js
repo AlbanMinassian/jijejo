@@ -25,10 +25,10 @@ function jsonout(optin, meta = {}, options = {}) {
   };
 }
 
-var jijejo_node = {
+var jijejo = {
   jsonin: jsonin,
   jsonerr: jsonerr,
   jsonout: jsonout
 };
 
-module.exports = jijejo_node;
+module.exports = jijejo;

@@ -14,9 +14,8 @@ import jijejo from 'jijejo';
 const jijejo = require('jijejo/commonjs');
 ```
 
-### old and modern browser usage
+### browser usage
 
 ```html
-<script async type="module" src="/dist/jijejo.esm.min.js"></script>
-<script async nomodule src="/dist/jijejo.iife.min.js"></script>
+<script src="/dist/jijejo.iife.min.js"></script>
 ```
